@@ -39,8 +39,10 @@ DAX (Measures & Calculated Columns)
 
 Slicers for Genre, Country, Year, and Rating
 
-Dy<img width="1320" height="741" alt="Amazon Prime Report SS" src="https://github.com/user-attachments/assets/a84fe9f6-c744-4b4f-a3ad-81cd557a69e7" />
-namic visuals
+Dynamic visuals
+
+<img width="1320" height="741" alt="Amazon Prime Report SS" src="https://github.com/user-attachments/assets/a84fe9f6-c744-4b4f-a3ad-81cd557a69e7" />
+
 
 ## 🚀 How to Use
 
