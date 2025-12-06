@@ -28,9 +28,7 @@ DAX (Measures & Calculated Columns)
 
 ## 📁 Dataset Used
 
-<a href="D:\PowerBI\Amazon Sales Report Final.pbix">View Dataset</a>
-
-## Contains information like:
+<a href="">View Dataset</a>
 
 
 ## 📊 Dashboard Highlights
@@ -41,10 +39,8 @@ DAX (Measures & Calculated Columns)
 
 Slicers for Genre, Country, Year, and Rating
 
-Dynamic visuals
-
-![image alt]()
-
+Dy<img width="1320" height="741" alt="Amazon Prime Report SS" src="https://github.com/user-attachments/assets/a84fe9f6-c744-4b4f-a3ad-81cd557a69e7" />
+namic visuals
 
 ## 🚀 How to Use
 
